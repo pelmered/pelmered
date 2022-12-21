@@ -4,6 +4,9 @@ Co-founder & Tech Lead at [Heap Carsharing](https://heap.co)
 
 I am sometimes available for freelance work. 
 
+[My LinkedIn](https://www.linkedin.com/in/pelmered/)
+
+
 <!--
 **pelmered/pelmered** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

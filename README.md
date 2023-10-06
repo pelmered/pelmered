@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-I'm currently working as co-founder & Tech Lead/Architect at [Heap Carsharing](https://heap.co) - A peer-to-peer carsharing startup in Sweden 🚗
+I'm currently working at ePark - A parking app in Sweden, Poland and Norway.
+
+Formerly co-founder & Tech Lead/Architect at [Heap Carsharing](https://heap.co) - A peer-to-peer carsharing startup in Sweden 🚗
 
 I am sometimes available for freelance work. 
 

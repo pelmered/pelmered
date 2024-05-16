@@ -6,7 +6,7 @@ Formerly co-founder & Tech Lead/Architect at [Heap Carsharing](https://heap.co) 
 
 I am sometimes available for freelance work. 
 
-[![Pelmered's GitHub stats](https://github-readme-stats.vercel.app/api?username=pelmered)](https://github.com/pelmered/github-readme-stats)
+[![Pelmered's GitHub stats](https://github-readme-stats.vercel.app/api?username=pelmered)](https://github.com/pelmered)
 
 ## Some links
 

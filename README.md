@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm currently working at ePark - A parking app in Sweden, Poland and Norway.
+I'm currently working at Ezeto - A rental service in Sweden.
 
 Formerly co-founder & Tech Lead/Architect at [Heap Carsharing](https://heap.co) - A peer-to-peer carsharing startup in Sweden 🚗
 

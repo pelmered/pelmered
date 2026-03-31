@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm currently working at Ezeto - A rental service in Sweden.
+I'm currently working as a Tech Lead at MyGizmo - An ERP/project managemet SaaS for craft men.
 
 Formerly co-founder & Tech Lead/Architect at [Heap Carsharing](https://heap.co) - A peer-to-peer carsharing startup in Sweden 🚗
 
